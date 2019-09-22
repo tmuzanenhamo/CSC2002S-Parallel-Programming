@@ -1,0 +1,77 @@
+commit ce4da33dc9ec87bdc04f86f4d2a6eec538d618ef
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Thu Sep 5 10:26:41 2019 +0200
+
+    Done with some tests
+
+commit cf71ae2e264f36053833f4d817cda75fac89619d
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Tue Sep 3 12:29:47 2019 +0200
+
+    Wind generation file added
+
+commit 21ecd947e95470d0e68b8ad174d3be1821895007
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Tue Sep 3 01:59:26 2019 +0200
+
+    Calling it a night
+
+commit 02d8e0f29005a1378336704be79b60ed14e01da3
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Tue Sep 3 01:35:15 2019 +0200
+
+    added text files
+
+commit 514d14cca7ddc464df015f75542ab8249ca321d8
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Tue Sep 3 01:34:18 2019 +0200
+
+    13 hours later
+
+commit b553683c574750603c525f6fab0db9b3ac707bcb
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Tue Sep 3 00:50:15 2019 +0200
+
+    Almost there
+
+commit 26cb5da1c53cd7a8132af5d0d5173cebff51bfd3
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Mon Sep 2 22:59:52 2019 +0200
+
+    I'm about to CRY
+
+commit cfb3843195a9db1457fc7417714f87d0b6bb3917
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Mon Sep 2 22:59:26 2019 +0200
+
+    I'm about to CRY
+
+commit c832af78d67109ece3222cb8f91907eb5b81f27f
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Mon Sep 2 20:40:31 2019 +0200
+
+    SO manny Buggss
+
+commit 05da2e7de5869870d2855f4424a1e0ac82bbb5a4
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Mon Sep 2 19:57:11 2019 +0200
+
+    added the parallel version
+
+commit 8a217018c4c07c61d938bae2d6fcdd52f5feeed3
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Mon Sep 2 19:53:47 2019 +0200
+
+    Modified CloudData
+
+commit 0f4ed68b7ba98fefb57047435d2238553bf96b57
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Mon Sep 2 19:53:13 2019 +0200
+
+    Created a method to classify clouds
+
+commit 1c31fd7f1aa2c91b233ef6baa3ba276ebe0f26e5
+Author: Tawanda <tawandamuzanenhamo14@gmail.com>
+Date:   Mon Sep 2 18:08:23 2019 +0200
+
+    Created a vector class
